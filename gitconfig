@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tmshimokawa@gmail.com
+	name = Taciana Shimokawa
